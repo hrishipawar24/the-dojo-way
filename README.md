@@ -31,13 +31,11 @@ By adding your name to this document, you will be committing to adhere to these 
 1. Don't judge people easily
 1. And finally - [never reject yourself](https://twitter.com/ykdojo/status/1564252923483541504).
 
-## Discord:
+## Discord
 
-We don't have a dedicated Discord server for this yet, but we do have a group for one of our other open source projects, [defaang](https://github.com/ykdojo/defaang).
+Join us [here](https://discord.com/invite/nNtVfKddDD).
 
-If you have any questions about this movement, or just want to chat with some of the other members, feel free to join us [here](https://discord.com/invite/nNtVfKddDD).
-
-## Signed by:
+## Signed by
 
 - [YK Sugi](https://twitter.com/ykdojo)
 - [Subho Ghosh](https://twitter.com/subhoghosh_)
@@ -121,3 +119,15 @@ If you have any questions about this movement, or just want to chat with some of
 - [Kuldeep Yeware](https://twitter.com/kuldeepyeware)
 - [Huihui](https://twitter.com/huihuicoder)
 - [Kashish Lakhara](https://twitter.com/kashishtwts)
+- [Shubham Sonawane](https://twitter.com/ShuShu8788)
+- [Sagar Jariwala](https://twitter.com/Sagar_jari_)
+- [Chris Morton](https://github.com/Mortr0n)
+- [Bony Sureliya](https://github.com/bonysureliya)
+- [Ife Jeremiah](https://github.com/ifejeremiah)
+- [MD TARIQUE ANWAR](https://twitter.com/Itsanwartarique?t=5VBMkID_q1zw4DuXL8FrTw&s=09)
+- [Muhammad Iqbal](https://twitter.com/muhammadid63)
+- [01 spirit](https://twitter.com/spiritdivine01)
+- [Jon Christie](https://github.com/mathcodes)
+- [Jivan Bhardwaj](https://twitter.com/JivanBhardwaj05)
+- [Nakuru Wubni](https://twitter.com/nwubni)
+- [Cody Johnson](https://github.com/codyjohnsontx)
