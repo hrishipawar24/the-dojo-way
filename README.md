@@ -31,11 +31,11 @@ By adding your name to this document, you will be committing to adhere to these 
 1. Don't judge people easily
 1. And finally - [never reject yourself](https://twitter.com/ykdojo/status/1564252923483541504).
 
-## Discord
+## Discord :-
 
 Join us [here](https://discord.com/invite/nNtVfKddDD).
 
-## Signed by
+## Signed by :-
 
 - [YK Sugi](https://twitter.com/ykdojo)
 - [Subho Ghosh](https://twitter.com/subhoghosh_)
